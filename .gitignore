@@ -1,0 +1,4 @@
+*.targets
+my.mvc/bin/*
+my.mvc/obj/*
+packages/*
